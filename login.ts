@@ -7,3 +7,6 @@ function handleLogin(usernam: string, email: string, password: string) {
 	console.log("successfully logged in!");
 
 }
+
+
+handleLogin("emad", "emad@emad.com", "emad@111");
