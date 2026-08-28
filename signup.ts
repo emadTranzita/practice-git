@@ -5,8 +5,8 @@ async function signupHandler(username: string, email: string, password: string) 
 		if (!username || !email || !password ) {
 			return;
 
-		}
-	
+		}	
+
 		const res = await fetch('http://localhost:3000/api/auth/signup', {
 
 			method: "POST",
