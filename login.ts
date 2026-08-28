@@ -18,8 +18,4 @@ handleLogin("emad", "emad@emad.com", "emad@111");
 
 // changing from  branch B
 
-
-
-
-
 main commit E
